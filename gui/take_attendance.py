@@ -1,0 +1,1 @@
+# GUI para tomar asistencia desde webcam o video
